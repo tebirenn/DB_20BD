@@ -1,4 +1,4 @@
-CREATE TABLE store(
+    CREATE TABLE store(
     id INT,
     PRIMARY KEY (id),
     store_name VARCHAR NOT NULL,
